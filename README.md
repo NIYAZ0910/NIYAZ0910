@@ -99,7 +99,7 @@ If you're interested in **Data Analytics, SQL, Excel, or Power BI**, let's colla
 
 <p align="center">
 
-  <a href="www.linkedin.com/in/muhammed-niyas-kv">
+  <a href="https://www.linkedin.com/in/muhammed-niyas-kv/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
